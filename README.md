@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a Space Studies graduate student at Rice University with a foundation in Physics, Mathematics, and Computer Science.
+I am a Space Studies graduate at Rice University with a foundation in Physics, Mathematics, and Computer Science.
 
 I am building technical depth in spacecraft mechanical systems, propulsion fundamentals, and mission analysis while developing strong engineering documentation and structured problem-solving skills aligned with aerospace industry practices.
 
