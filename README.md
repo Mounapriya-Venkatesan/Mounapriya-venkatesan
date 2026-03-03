@@ -1,6 +1,6 @@
 <h1 align="center">Mounapriya Venkatesan</h1>
 <p align="center">
-  Space Systems Graduate Student • Aspiring Aerospace Engineer  
+  Space Systems Graduate • Aspiring Aerospace Engineer  
 </p>
 
 <p align="center">
