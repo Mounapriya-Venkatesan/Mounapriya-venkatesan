@@ -1,4 +1,4 @@
-<h1 align="center">Mounapriya Venkatesan</h1>
+<h1 align="center">Mounapriya Venkatesan Jayasankari</h1>
 <p align="center">
   Space Systems Graduate • Aspiring Aerospace Engineer  
 </p>
